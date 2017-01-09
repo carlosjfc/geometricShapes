@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="Carlosjfc Geometric Shapes Test Suite" tests="31" assertions="98" failures="0" errors="0" time="0.007797">
-    <testsuite name="CircleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/CircleTest.php" tests="4" assertions="13" failures="0" errors="0" time="0.001851">
-      <testcase name="testExpectBuildSquare" class="CircleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/CircleTest.php" line="6" assertions="3" time="0.001282"/>
-      <testcase name="testCircleIsNotValidRadius" class="CircleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/CircleTest.php" line="18" assertions="2" time="0.000362"/>
-      <testcase name="testCanScaleCircleUp" class="CircleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/CircleTest.php" line="23" assertions="4" time="0.000116"/>
-      <testcase name="testCanScaleCircleDown" class="CircleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/CircleTest.php" line="35" assertions="4" time="0.000091"/>
+  <testsuite name="Carlosjfc Geometric Shapes Test Suite" tests="31" assertions="98" failures="0" errors="0" time="0.015973">
+    <testsuite name="CircleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/CircleTest.php" tests="4" assertions="13" failures="0" errors="0" time="0.004606">
+      <testcase name="testExpectBuildSquare" class="CircleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/CircleTest.php" line="6" assertions="3" time="0.003312"/>
+      <testcase name="testCircleIsNotValidRadius" class="CircleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/CircleTest.php" line="18" assertions="2" time="0.001074"/>
+      <testcase name="testCanScaleCircleUp" class="CircleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/CircleTest.php" line="23" assertions="4" time="0.000124"/>
+      <testcase name="testCanScaleCircleDown" class="CircleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/CircleTest.php" line="35" assertions="4" time="0.000096"/>
     </testsuite>
-    <testsuite name="EquilateralTriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/EquilateralTriangleTest.php" tests="1" assertions="5" failures="0" errors="0" time="0.001408">
-      <testcase name="testExpectBuildEquilateralTriangle" class="EquilateralTriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/EquilateralTriangleTest.php" line="6" assertions="5" time="0.001408"/>
+    <testsuite name="EquilateralTriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/EquilateralTriangleTest.php" tests="1" assertions="5" failures="0" errors="0" time="0.004419">
+      <testcase name="testExpectBuildEquilateralTriangle" class="EquilateralTriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/EquilateralTriangleTest.php" line="6" assertions="5" time="0.004419"/>
     </testsuite>
-    <testsuite name="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" tests="9" assertions="27" failures="0" errors="0" time="0.001345">
-      <testcase name="testExpectParallelogramIsValid" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="7" assertions="5" time="0.000308"/>
-      <testcase name="testParallelogramIsNotValidByLenght" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="21" assertions="2" time="0.000160"/>
-      <testcase name="testParallelogramIsNotValidByWidth" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="30" assertions="2" time="0.000135"/>
-      <testcase name="testParallelogramIsNotValidByAngle" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="39" assertions="2" time="0.000120"/>
-      <testcase name="testCanScaleParallelogramUp" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="44" assertions="5" time="0.000123"/>
-      <testcase name="testCanScaleParallelogramDown" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="57" assertions="5" time="0.000106"/>
-      <testcase name="testParallelogramNotValidLength" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="74" assertions="2" time="0.000116"/>
-      <testcase name="testParallelogramNotValidWidth" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="84" assertions="2" time="0.000106"/>
-      <testcase name="testParallelogramNotValidAngle" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="94" assertions="2" time="0.000171"/>
+    <testsuite name="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" tests="9" assertions="27" failures="0" errors="0" time="0.002663">
+      <testcase name="testExpectParallelogramIsValid" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="7" assertions="5" time="0.001241"/>
+      <testcase name="testParallelogramIsNotValidByLenght" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="21" assertions="2" time="0.000259"/>
+      <testcase name="testParallelogramIsNotValidByWidth" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="30" assertions="2" time="0.000196"/>
+      <testcase name="testParallelogramIsNotValidByAngle" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="39" assertions="2" time="0.000185"/>
+      <testcase name="testCanScaleParallelogramUp" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="44" assertions="5" time="0.000193"/>
+      <testcase name="testCanScaleParallelogramDown" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="57" assertions="5" time="0.000174"/>
+      <testcase name="testParallelogramNotValidLength" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="74" assertions="2" time="0.000167"/>
+      <testcase name="testParallelogramNotValidWidth" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="84" assertions="2" time="0.000136"/>
+      <testcase name="testParallelogramNotValidAngle" class="ParallelogramTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/ParallelogramTest.php" line="94" assertions="2" time="0.000112"/>
     </testsuite>
-    <testsuite name="RectangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/RectangleTest.php" tests="2" assertions="7" failures="0" errors="0" time="0.001149">
-      <testcase name="testExpectBuildRectangle" class="RectangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/RectangleTest.php" line="6" assertions="5" time="0.000508"/>
-      <testcase name="testSetAngleNotChangeRightAngle" class="RectangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/RectangleTest.php" line="16" assertions="2" time="0.000641"/>
+    <testsuite name="RectangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/RectangleTest.php" tests="2" assertions="7" failures="0" errors="0" time="0.001805">
+      <testcase name="testExpectBuildRectangle" class="RectangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/RectangleTest.php" line="6" assertions="5" time="0.000642"/>
+      <testcase name="testSetAngleNotChangeRightAngle" class="RectangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/RectangleTest.php" line="16" assertions="2" time="0.001163"/>
     </testsuite>
-    <testsuite name="RightTriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/RightTriangleTest.php" tests="1" assertions="6" failures="0" errors="0" time="0.000281">
-      <testcase name="testExpectBuildRightTriangle" class="RightTriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/RightTriangleTest.php" line="6" assertions="6" time="0.000281"/>
+    <testsuite name="RightTriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/RightTriangleTest.php" tests="1" assertions="6" failures="0" errors="0" time="0.000504">
+      <testcase name="testExpectBuildRightTriangle" class="RightTriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/RightTriangleTest.php" line="6" assertions="6" time="0.000504"/>
     </testsuite>
-    <testsuite name="SquareTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/SquareTest.php" tests="1" assertions="5" failures="0" errors="0" time="0.000256">
-      <testcase name="testExpectBuildSquare" class="SquareTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/SquareTest.php" line="6" assertions="5" time="0.000256"/>
+    <testsuite name="SquareTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/SquareTest.php" tests="1" assertions="5" failures="0" errors="0" time="0.000498">
+      <testcase name="testExpectBuildSquare" class="SquareTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/SquareTest.php" line="6" assertions="5" time="0.000498"/>
     </testsuite>
-    <testsuite name="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" tests="13" assertions="35" failures="0" errors="0" time="0.001506">
-      <testcase name="testExpectTriangleIsValid" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="6" assertions="5" time="0.000165"/>
-      <testcase name="testTriangleIsNotValid" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="20" assertions="2" time="0.000141"/>
+    <testsuite name="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" tests="13" assertions="35" failures="0" errors="0" time="0.001479">
+      <testcase name="testExpectTriangleIsValid" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="6" assertions="5" time="0.000154"/>
+      <testcase name="testTriangleIsNotValid" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="20" assertions="2" time="0.000143"/>
       <testcase name="testTriangleIsNotValidBySideAB" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="29" assertions="2" time="0.000110"/>
       <testcase name="testTriangleIsNotValidBySideBC" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="38" assertions="2" time="0.000108"/>
-      <testcase name="testTriangleIsNotValidBySideCA" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="47" assertions="2" time="0.000172"/>
-      <testcase name="testCanScaleTriangleUp" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="52" assertions="5" time="0.000117"/>
-      <testcase name="testCanScaleTriangleDown" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="65" assertions="5" time="0.000098"/>
-      <testcase name="testTriangleNotValidSideAB" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="82" assertions="2" time="0.000105"/>
-      <testcase name="testTriangleNotValidSideBC" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="92" assertions="2" time="0.000099"/>
-      <testcase name="testTriangleNotValidSideCA" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="102" assertions="2" time="0.000097"/>
-      <testcase name="testTriangleNotValidBySideAB" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="112" assertions="2" time="0.000099"/>
-      <testcase name="testTriangleNotValidBySideBC" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="122" assertions="2" time="0.000098"/>
-      <testcase name="testTriangleNotValidBySideCA" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="132" assertions="2" time="0.000097"/>
+      <testcase name="testTriangleIsNotValidBySideCA" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="47" assertions="2" time="0.000109"/>
+      <testcase name="testCanScaleTriangleUp" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="52" assertions="5" time="0.000116"/>
+      <testcase name="testCanScaleTriangleDown" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="65" assertions="5" time="0.000104"/>
+      <testcase name="testTriangleNotValidSideAB" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="82" assertions="2" time="0.000106"/>
+      <testcase name="testTriangleNotValidSideBC" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="92" assertions="2" time="0.000106"/>
+      <testcase name="testTriangleNotValidSideCA" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="102" assertions="2" time="0.000105"/>
+      <testcase name="testTriangleNotValidBySideAB" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="112" assertions="2" time="0.000105"/>
+      <testcase name="testTriangleNotValidBySideBC" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="122" assertions="2" time="0.000105"/>
+      <testcase name="testTriangleNotValidBySideCA" class="TriangleTest" file="/Users/carlos/PhpstormProjects/geometricShapes/tests/TriangleTest.php" line="132" assertions="2" time="0.000108"/>
     </testsuite>
   </testsuite>
 </testsuites>
