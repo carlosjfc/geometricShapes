@@ -1,0 +1,27 @@
+{
+  "name": "carlosjfc/geometricShapes",
+  "description": "PHP library for defining 2-dimensional geometric shapes and making basic calculations with them.",
+  "license": "MIT",
+  "keywords": [
+    "gemoetric",
+    "shapes",
+    "geometric shapes",
+    "2-dimensional geometric shapes"
+  ],
+  "authors": [
+    {
+      "name": "Carlos Fernandez",
+      "email": "carlosjfc@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.7.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Carlosjfc\\GeometricShapes\\": "src"
+    }
+  }
+}
