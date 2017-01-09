@@ -3,9 +3,9 @@ php:
   - '7.0'
   - '7.1'
   - hhvm
-  before_script:
+sudo: false
+before_script:
     - composer self-update
     - composer clear-cache
     - composer install --prefer-source --no-interaction --dev
-
-  script: phpunit
+script: phpunit
