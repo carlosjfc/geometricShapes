@@ -16,7 +16,7 @@ class RectangleTest extends PHPUnit_Framework_TestCase
     public function testSetAngleNotChangeRightAngle()
     {
         $rectangle = new Rectangle(5.23, 6.7845);
-        $noneRightAngle = 46.23;
+        $noneRightAngle = 46.35;
         $rectangle->setAngle($noneRightAngle);
         $this->assertAttributeEquals(90, 'angle', $rectangle);
         $this->assertAttributeNotEquals($noneRightAngle, 'angle', $rectangle);
